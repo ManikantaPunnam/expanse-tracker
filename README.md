@@ -7,43 +7,72 @@ This command-line application helps users record, view, and calculate their expe
 
 ## 🚀 Features
 
-- ➕ Add new expenses  
-- 📋 View all recorded expenses  
-- 💵 Calculate total spending  
-- 🧾 Simple menu-driven interface  
+- Add new expenses  
+- View all recorded expenses  
+- Calculate total spending  
+- Simple menu-driven interface  
 
 ---
 
 ## 🛠️ Tech Stack
 
 - **Language:** Python  
-- **Interface:** CLI (Command Line)
+- **Interface:** CLI (Command Line)  
 
 ---
 
 ## 📁 Project Structure
 
-expense-tracker/
-│
-├── expance.py
-└── README.md
-
+    expense-tracker/
+    │
+    ├── expance.py
+    └── README.md
 
 ---
 
 ## ▶️ Getting Started
 
-### ✅ Prerequisites
-- Python 3.x installed
+### Prerequisites
+- Python 3.x installed  
 
-### ▶️ Run the Project
+### Run the Project
 
-```bash
-python expance.py
+    python expance.py
 
-==== MENU ====
-1. Add Expense
-2. View All Expenses
-3. View Total Expenses
-4. Exit
+---
 
+## 📌 Usage
+
+    ==== MENU ====
+    1. Add Expense
+    2. View All Expenses
+    3. View Total Expenses
+    4. Exit
+
+---
+
+## ⚠️ Limitations
+
+- Data is not stored permanently  
+- No database integration  
+- Basic input validation  
+
+---
+
+## 🔮 Future Improvements
+
+- Add JSON/database storage  
+- Add analytics  
+- Convert into web app  
+
+---
+
+## 👨‍💻 Author
+
+**Manikanta**
+
+---
+
+## ⭐ Support
+
+Give a ⭐ if you like this project!
